@@ -624,7 +624,7 @@ Speech and Image Processing
 Speech Recognition
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `WhisperLevantineArabic <https://github.com/CarmiShimon/WhisperLevantineArabic>`_ {?} - A fine-tuned version of the Whisper medium model, specifically optimized for transcribing Levantine Arabic with a focus on the Israeli dialect. This model aims to improve automatic speech recognition (ASR) performance for this specific variant of Arabic.
+* `WhisperLevantineArabic <https://github.com/CarmiShimon/WhisperLevantineArabic>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned version of the Whisper medium model, specifically optimized for transcribing Levantine Arabic with a focus on the Israeli dialect. This model aims to improve automatic speech recognition (ASR) performance for this specific variant of Arabic.
 
 
 Speech Synthesis
