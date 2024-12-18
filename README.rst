@@ -656,6 +656,8 @@ Machine Translation
 
 * `Turjuman <https://github.com/UBC-NLP/turjuman>`_ {`Apache License 2.0`_} - a neural machine translation toolkit. It translates from 20 languages into Modern Standard Arabic (MSA).
 
+* `HeArBERT <https://huggingface.co/aviadrom/HeArBERT>`_ {?} - A bilingual BERT for Arabic and Hebrew, pretrained on the respective parts of the OSCAR corpus.
+
 
 
 Models by Type
