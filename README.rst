@@ -60,6 +60,8 @@ Multilingual Corpora
 
 * `WikiQAar <https://github.com/qcri/WikiQAar>`_ {?} - a bilingual English-Arabic Question Answering corpus built on top of WIKIQA. See also: https://huggingface.co/datasets/wiki_qa_ar
 
+* `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
+
 
 
 Annotated Datasets by Task
@@ -129,6 +131,8 @@ Morphological Analysis
 
 Named Entity Recognition (NER)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
 
 * `ANERcorp <https://camel.abudhabi.nyu.edu/anercorp/>`_ {`CC BY-SA 4.0`_} - 300 documents annotated for entity recognition.
 
