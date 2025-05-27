@@ -132,6 +132,8 @@ Morphological Analysis
 Named Entity Recognition (NER)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* `IAHLT Named Entities Dataset (Arabic Subset) <https://huggingface.co/datasets/HebArabNlpProject/arabic-iahlt-NER>`_ {`CC BY 4.0`_} - This dataset contains named entity annotations for Arabic texts from various sources, curated as part of the IAHLT multilingual NER project. The Arabic portion is provided here as a cleaned subset intended for training and evaluation in named entity recognition tasks.
+
 * `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
 
 * `ANERcorp <https://camel.abudhabi.nyu.edu/anercorp/>`_ {`CC BY-SA 4.0`_} - 300 documents annotated for entity recognition.
