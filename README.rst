@@ -229,7 +229,10 @@ Topic Classification
 Text Summarization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `KALIMAT <https://sourceforge.net/projects/kalimat/>`_ {?} - 20,200 from the Omani newspaper Al Watan with summaries, named entities, art-of-speech tagging, and morphological analysis.
+* `KALIMAT <https://huggingface.co/datasets/HebArabNlpProject/ASAS>`_ {?} - 20,200 from the Omani newspaper Al Watan with summaries, named entities, art-of-speech tagging, and morphological analysis.
+
+* `ASAS (أساس) Corpus <https://sourceforge.net/projects/kalimat/>`_ {`Apache License 2.0`_} - a multi‑register Arabic summarization corpus designed to emphasize longer source texts and longer, higher‑quality summaries. Each summary sentence is paired with human validation and supporting evidence extracted verbatim from the source.
+
 
 Transliteration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
