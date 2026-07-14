@@ -356,6 +356,8 @@ Transliteration
 
 * `ATAR <https://github.com/bashartalafha/Arabizi-Transliteration>`_ {?} - An ATtention-based LSTM model for ARabizi transliteration.
 
+* `darija-tools <https://github.com/Samielakkad/darija-tools>`_ {`MIT`_} - Dependency-free Python utilities for Moroccan Darija text normalization and rule-based Arabizi-to-Arabic transliteration.
+
 * `Tafqit <https://github.com/MohsenAlyafei/tafqit>`_ {`MIT`_} - Transliteration of numbers to words.
 
 
