@@ -314,6 +314,7 @@ Dictionaries & Word Lists
 * `Arabic Stop Words <https://github.com/mohataher/arabic-stop-words/tree/master>`_ {?} - A list of ~750 possible stop words in Arabic.
 
 * `Buckwalter’s list of Arabic roots <https://www.angelfire.com/tx4/lisan/roots1.htm>`_ {?}
+* `3ammiya <https://3ammiya.com>`_ {?} - A free, community-built Egyptian Arabic dictionary with 6,000+ entries covering slang, phrases, and Franco (Latin) transliteration with real examples from everyday speech.
 
 
 Word Embeddings
