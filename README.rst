@@ -607,6 +607,7 @@ Named Entity Recognition (NER)
 * `MADAMIRA <https://inventions.techventures.columbia.edu/technologies/arabic-language-for--CU14012>`_ {`Custom Terms of Use`_} - MADAMIRA is a morphological analyzer that provides tokenization, part-of-speech tagging, Morphological disambiguation for full range of morphological features, lemmatization, diacritization, named entity recognition and base phrase chunking. 
 
 * `CAMeL Tools <https://github.com/CAMeL-Lab/camel_tools>`_ {`MIT`_} - an open-source Python toolkit that supports Arabic and Arabic dialect pre-processing, morphological modeling, dialect identification, named entity recognition and sentiment analysis. CAMeL Tools provides command-line interfaces (CLIs) and application programming interfaces (APIs) covering these utilities.
+* `Seter <https://huggingface.co/shoresh-labs/seter-pii-he-ar>`_ {`MIT`_} - Open PII token-classification models for Arabic, Hebrew and English, including standalone first names. In-browser ONNX `demo <https://huggingface.co/spaces/yinonov/seter-demo>`_. Self-hosted LiteLLM guard: https://github.com/Shoresh-Labs/seter-guard
 
 
 
